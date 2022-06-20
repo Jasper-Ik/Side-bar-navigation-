@@ -53,7 +53,7 @@ Users should be able to:
 the :checked pseudo class selector:it represent any radio <input type="radio"> checkbox <input type="checkbox"> or option (<opyion>) in <select> e.g
 
 
-```checked pseudo class selector
+```
 #check:checked ~ .sideBar_menu {
     left: 0px;
 }
